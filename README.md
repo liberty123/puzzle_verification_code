@@ -1,0 +1,2 @@
+# puzzle_verification_code
+关于拼图验证码的解决方法
